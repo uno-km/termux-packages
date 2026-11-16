@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://uno-km.vercel.app/lib/vision/"
 TERMUX_PKG_DESCRIPTION="Moondream2 & LLaVA On-Device Multimodal Computer Vision CLI for Termux"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="Uno Kim <contact@uno-km.com>"
+TERMUX_PKG_MAINTAINER="Uno Kim <amv.foundation.kr@gmail.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_SRCURL="https://github.com/uno-km/termux-vision/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="c6f833723e88cc0f51e430d361132d9e9c1958aeae090ca32667d6527d626f59"

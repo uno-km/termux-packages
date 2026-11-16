@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://uno-km.vercel.app/lib/train/"
 TERMUX_PKG_DESCRIPTION="On-Device Deep Learning & LoRA Fine-Tuning CLI Framework for Termux"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="Uno Kim <contact@uno-km.com>"
+TERMUX_PKG_MAINTAINER="Uno Kim <amv.foundation.kr@gmail.com>"
 TERMUX_PKG_VERSION="2.0.1"
 TERMUX_PKG_SRCURL="https://github.com/uno-km/termux-train/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="b2751341a30f37ca7265a9cb3ebd991531dc7dd7849c50c06b5cdf47dee526d2"
